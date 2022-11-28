@@ -1,10 +1,10 @@
 
-import 'package:epsi_shop/product_model.dart';
+import 'package:epsi_shop/models/product_model.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
 
-import 'cart_model.dart';
+import 'models/cart_model.dart';
 
 class ListViewProducts extends StatelessWidget {
   const ListViewProducts({
